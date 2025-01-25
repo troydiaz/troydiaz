@@ -1,17 +1,15 @@
 # About me
 Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science with a minor in Mathematics at Oregon State University. 
 
-Here are some ideas to get you started:
+Some of my hobbies include:
 
 - 🏌️‍♂️ I love golfing.
 - 🎳 I enjoy bowling and playing billiards.
 - 🥾 I love hiking and exploring the outdoors.
 - 💪 I enjoy weightlifting and staying active.
 - 🐐 I am the number one fan of the GOAT, you already know who.
-- 🏖️ I love going to the beach.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏖️ I relaxing at the beach.
+
 # Languages and Tool
 
 <p align="left">
