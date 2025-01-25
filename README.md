@@ -34,7 +34,7 @@ Some of my hobbies include:
 
 # Classes I'm Currently Taking
 
-- Software Engineering II
-- Analysis of Algorithms
-- Linear Algebra II
-- Introduction to Databases
+- Software Engineering II (CS 362)
+- Analysis of Algorithms (CS 325)
+- Linear Algebra II (MTH 342)
+- Introduction to Databases (CS 340)
