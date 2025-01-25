@@ -1,4 +1,4 @@
-# About me
+# About Me
 Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science with a minor in Mathematics at Oregon State University. 
 
 Some of my hobbies include:
