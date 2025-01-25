@@ -8,7 +8,7 @@ Some of my hobbies include:
 - 🥾 I love hiking and exploring the outdoors.
 - 💪 I enjoy weightlifting and staying active.
 - 🐐 I am the number one fan of the GOAT, you already know who.
-- 🏖️ I relaxing at the beach.
+- 🏖️ I like relaxing at the beach.
 
 # Languages and Tool
 
