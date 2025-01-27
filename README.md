@@ -1,7 +1,7 @@
 # About Me
 Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science with a minor in Mathematics at Oregon State University. 
 
-# Languages and Tool
+# Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
