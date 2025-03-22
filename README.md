@@ -23,7 +23,7 @@ Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science a
 
 # Classes I'm Currently Taking
 
-- Software Engineering II (CS 362)
-- Analysis of Algorithms (CS 325)
-- Linear Algebra II (MTH 342)
-- Introduction to Databases (CS 340)
+- CS 475 Parallel Programming
+- CS 370 Introduction to Security
+- CS 372 Introduction to Computer Networks
+- CS 381 Programming Language Fundamentals
