@@ -8,7 +8,4 @@ Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science a
 
 # Classes I'm Currently Taking
 
-- CS 475 Parallel Programming
-- CS 370 Introduction to Security
-- CS 372 Introduction to Computer Networks
-- CS 381 Programming Language Fundamentals
+- CS 492 Mobile Software Development
