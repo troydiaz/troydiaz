@@ -17,4 +17,7 @@ Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science a
 
 # Classes I'm Currently Taking
 
-- CS 492 Mobile Software Development
+- CS 461 SENIOR SOFTWARE ENGINEERING PROJECT I
+- CS 331 INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+- CS 434 MACHINE LEARNING AND DATA MINING
+- ST 421 INTRODUCTION TO MATHEMATICAL STATISTICS
